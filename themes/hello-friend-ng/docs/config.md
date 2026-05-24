@@ -12,4 +12,4 @@ The settings in the default area are usually provided by Hugo itself. Check [Con
 paginate = 10
 ```
 
-This Setting will paginate your list views. Set to `0` to disable it. For more information check (https://gohugo.io/templates/pagination/).
+This Setting will Paginate your list views. Set to `0` to disable it. For more information check (https://gohugo.io/templates/pagination/).
