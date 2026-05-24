@@ -1,4 +1,4 @@
-# Configuration
+# Configuration 
 
 There are some settings you can set in your `config.toml`. 
 
